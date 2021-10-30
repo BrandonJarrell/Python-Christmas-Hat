@@ -16,8 +16,6 @@ This is a Python program and demonstration
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 * [Web Site Name](https://www.w3schools.com/python/)
 
 # Future Work
